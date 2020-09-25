@@ -5,3 +5,4 @@ Prueba mi-rama prueba
 =======
 corrige linea 3
 >>>>>>> mi-rama
+Un cambio desde rama1
