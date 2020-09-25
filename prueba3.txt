@@ -1,3 +1,7 @@
 Una linea
 Prueba mi-rama
+<<<<<<< HEAD
 Prueba mi-rama prueba
+=======
+corrige linea 3
+>>>>>>> mi-rama
